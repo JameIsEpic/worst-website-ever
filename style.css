@@ -11,10 +11,11 @@
 
 }
 
-.title {
+body {
+    background-image: url(gvtHuR.webp);
     font-family: vanillaregular;
 }
 
-body {
-    background-image: url(gvtHuR.webp);
+.title {
+    font-family: vanillaregular;
 }
