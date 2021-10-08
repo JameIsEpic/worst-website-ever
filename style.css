@@ -14,10 +14,13 @@
 body {
     background-image: url("/unknown.png");
     font-family: "vanillaregular";
-    color: white;
+    color: aqua
 }
 
 .title {
     font-family: "Gerry";
 }
 
+h1 {
+    color:red
+}
